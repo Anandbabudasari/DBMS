@@ -1,0 +1,6 @@
+create table Supplier(
+Supplierid varchar2(6) primary key,
+Name varchar2(30),
+ContactNo varchar2(15) NOT NULL,
+Emailid  varachar2(30)
+);
