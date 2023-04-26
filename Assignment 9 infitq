@@ -1,0 +1,1 @@
+alter table Supplier ADd CitY varchar2(10)
